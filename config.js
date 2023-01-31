@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.OwnerNumber = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.ownertag = ['918101187835']  // -- Add multiple numbers like  ['918101967835','919357940276','917896587453']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.Owner = ['923067193190']  // -- Add multiple numbers like  ['923067193190','923067193190','923067193190']
+global.OwnerNumber = ['923067193190']  // -- Add multiple numbers like  ['923067193190','923067193190','923067193190']
+global.ownertag = ['923067193190']  // -- Add multiple numbers like  ['923067193190','923067193190','923067193190']
+global.BotName = "faheem"
+global.packname = "faheem bot"
+global.author = "By: faheem"
+global.OwnerName = "Faheem"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD" // -- Please don't change -- //
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"  // -- Please don't change -- //
+global.SupportGroupLink = "https://chat.whatsapp.com/KIT1YeKfN3e5l212EEM31I"  // -- Please don't change -- //
 global.sessionName = "session"  // -- Don't change otherwise bot will not work -- //
 
 
